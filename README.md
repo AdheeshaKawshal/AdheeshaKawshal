@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adheesha Kawshal</h1>
 
-- 👀 I’m interested in **hardware design, robotics, embedded systems, and HDL (Verilog/SystemVerilog)**
-- 🌱 I’m currently learning **RISC-V architecture, processor design, and advanced hardware interfacing**
-- 💞️ I’m looking to collaborate on **hardware-focused projects, especially using FPGAs or Raspberry Pi**
+- 👀 I’m interested in **hardware design, robotics, embedded systems, and ML**
+- 🌱 I’m currently learning ** Electronic and Telecomunication Engineering at University of Moratuwa**
 - 📫 How to reach me: adheeshakawshal2002@gmail.com
 
 ---
