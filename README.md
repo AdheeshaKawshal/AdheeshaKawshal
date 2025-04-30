@@ -1,8 +1,12 @@
-👋 Hi, I’m @AdheeshaKawshal  
-- 👀 I’m interested in computer architecture, hardware design, and data science.  
-- 🌱 I’m currently learning Verilog, SystemVerilog, and working on RISC-V processor design.  
-- 💞️ I’m looking to collaborate on embedded systems, FPGA projects, and robotics (like OpenCV and Raspberry Pi-based automation).
-- ### 🛠️ Languages and Tools
+<h1 align="center">Hi 👋, I'm Adheesha Kawshal</h1>
+
+- 👀 I’m interested in **hardware design, robotics, embedded systems, and HDL (Verilog/SystemVerilog)**
+- 🌱 I’m currently learning **RISC-V architecture, processor design, and advanced hardware interfacing**
+- 💞️ I’m looking to collaborate on **hardware-focused projects, especially using FPGAs or Raspberry Pi**
+- 📫 How to reach me: adheeshakawshal2002@gmail.com
+
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -23,9 +27,8 @@
   </a>
 </p>
 
+---
 
-- 📫 How to reach me: adheeshakawshal2002@gmail.com 
-<!---
-AdheeshaKawshal/AdheeshaKawshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### ⚡ Fun fact:
+I’ve worked on projects like a ping-pong playing robot, micromouse display systems, and processor design using RISC-V ISA. Always building, always curious!
+
