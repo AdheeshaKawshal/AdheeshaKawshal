@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adheesha Kawshal</h1>
 
 - 👀 I’m interested in **hardware design, robotics, embedded systems, and ML**
-- 🌱 I’m currently learning ** Electronic and Telecomunication Engineering at University of Moratuwa**
+- 🌱 I’m currently learning **Electronic and Telecomunication Engineering at University of Moratuwa**
 - 📫 How to reach me: adheeshakawshal2002@gmail.com
 
 ---
